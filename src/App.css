@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  background-color: lightblue;
+  padding: 2em;
+  padding-bottom: 5em;
+  height: 100%;
+}
+
+.cont {
+  background-color: white;
+  padding: 2em;
 }
 
 .App-logo {
